@@ -1,0 +1,50 @@
+h1{
+    font-size: 35px;
+    text-align: center;
+    color: #F5F5DC; /* beige */
+    background-color: #6b8e23; /* Vert Olive */
+    line-height: 2;
+    margin: 20;
+    padding: 20;
+   }
+    p{
+    font-size: 27px;
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    }
+
+    header, footer {
+        background-color: #6b8e23; /* Vert Olive */
+        color: #F5F5DC;
+        text-align: center;
+        padding: 20px 0;
+    }
+  h2, h3 {
+            color: #556B2F; /* Vert Olive */
+        }
+        h2 {
+            font-size: 2em;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        h3 {
+            font-size: 1.5em;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            text-align: left;
+        }
+    body {
+        font-family: 'Playfair Display', serif;
+        text-align: center;
+        background-color: #F5F5DC; /* Blanc cassé */
+        color: #556B2F; /* Vert Olive */
+    }
+    a:hover {
+        text-decoration: underline;
+        }
+
+
+        
+
+    
